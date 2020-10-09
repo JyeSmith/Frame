@@ -1,4 +1,4 @@
-F - arm (6mm) https://armattanproductions.com/pages/product_details/22561
+F - arm 1.2 (6mm) https://armattanproductions.com/pages/product_details/26529
 
 F - arm (5mm) https://armattanproductions.com/pages/product_details/22461
 
