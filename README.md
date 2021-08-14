@@ -1,15 +1,9 @@
-F - arm 1.2 (6mm) https://armattanproductions.com/pages/product_details/26529
-
-F - arm (5mm) https://armattanproductions.com/pages/product_details/22461
-
-F - top https://armattanproductions.com/pages/product_details/22465
-
-F - mid https://armattanproductions.com/pages/product_details/22462
-
-F - base https://armattanproductions.com/pages/product_details/22464
+rainfpv.com
 
 M3 Stainless Steel Sunk Nuts https://armattanproductions.com/pages/hardware_details/27/47
 
-3D prints https://www.tinkercad.com/things/4v9To29bmAC
+Cam https://www.tinkercad.com/things/4v9To29bmAC-frame-runcam-nano-mount/edit
+
+Antenna https://www.tinkercad.com/things/bd7wgBrgTSG-antenna-mounts/edit
 
 Standoff 6mm alum (special order by email) https://mayhemrc.com.au
