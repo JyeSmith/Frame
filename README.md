@@ -1,6 +1,7 @@
-rainfpv.com
+https://www.cf-factory.com/
+https://www.facebook.com/carbonfiberfpv/
 
-M3 Stainless Steel Sunk Nuts https://armattanproductions.com/pages/hardware_details/27/47
+M3 Stainless Steel Sunk Nuts https://www.cf-factory.com/press-nuts-p3705560.html
 
 Cam https://www.tinkercad.com/things/4v9To29bmAC-frame-runcam-nano-mount/edit
 
