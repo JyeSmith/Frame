@@ -7,4 +7,4 @@ Cam https://www.tinkercad.com/things/4v9To29bmAC-frame-runcam-nano-mount/edit
 
 Antenna https://www.tinkercad.com/things/bd7wgBrgTSG-antenna-mounts/edit
 
-Standoff 6mm alum (special order by email) https://mayhemrc.com.au
+Standoff 6mm alum https://mayhemrc.com.au/collections/standoff/products/scott-tomlinson-special-7075-t6-standoff
